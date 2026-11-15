@@ -1,1 +1,52 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahliddin",
+      "email": "ahliddin@example.com",
+      "password": "password123",
+      "tasks": [
+        {
+          "id": 101,
+          "title": "Купить продукты",
+          "description": "Молоко, хлеб, яйца",
+          "priority": "Medium"
+        },
+        {
+          "id": 102,
+          "title": "Закончить дизайн NoteHub",
+          "description": "Проверить экран создания задачи",
+          "priority": "High"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Umed",
+      "email": "umed@example.com",
+      "password": "securepass456",
+      "tasks": [
+        {
+          "id": 201,
+          "title": "Написать код на Kotlin",
+          "description": "Реализовать Retrofit",
+          "priority": "High"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Farrukh",
+      "email": "farrukh@example.com",
+      "password": "mypassword789",
+      "tasks": [
+        {
+          "id": 301,
+          "title": "Сделать зарядку",
+          "description": "Утренняя разминка",
+          "priority": "Low"
+        }
+      ]
+    }
+  ]
+}
