@@ -6,4 +6,5 @@
 <img width="118" height="123" alt="Bitcoin • Gold coin stack" src="https://github.com/user-attachments/assets/5a1b6494-c11e-4def-9141-dc994769f4ba" />
 <img width="82" height="88" alt="Illustration" src="https://github.com/user-attachments/assets/9f406684-7c98-43f3-87d9-5e56f4f36435" />
 <img width="196" height="118" alt="sIllustration" src="https://github.com/user-attachments/assets/10aa534d-db2f-4dfa-b5f9-bd6a433dbbcd" />
-<img width="196" height="118" alt="tIllustration" src="https://github.com/user-attachments/assets/8af758ff-690b-48cc-9030-75ff507caecb" />
+<img width="196" height="118" alt="tIllustration" src="https://github.com/user-attachments/assets/f52b1f67-8db7-4b41-a854-d165c19a379f" />
+
