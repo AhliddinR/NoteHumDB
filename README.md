@@ -12,3 +12,4 @@
 <img width="137" height="44" alt="Vector 12" src="https://github.com/user-attachments/assets/ac131a79-a6c7-4e53-b0b5-984a629c8cb6" />
 <img width="153" height="80" alt="image 20" src="https://github.com/user-attachments/assets/46882ab5-bfd1-425c-850a-6e0199286f62" />
 
+<img width="181" height="138" alt="Group 26" src="https://github.com/user-attachments/assets/9c2e2aa0-1280-41dd-82c7-48e95e924d86" />
